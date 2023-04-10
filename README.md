@@ -52,6 +52,8 @@ You can click the Preview link to take a look at your changes.
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=genius29&theme=dark&background=000000)](https://git.io/streak-stats)
   
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sherwin29&theme=radical&custom_title=Time%20spent%20this%20year)](https://github.com/anuraghazra/github-readme-stats)
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genius29&show_icons=true&theme=radical)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genius29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

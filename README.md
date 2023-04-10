@@ -2,6 +2,7 @@
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Sherwin
   </h1>
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -12,7 +13,7 @@ genius29/genius29 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-  ### :man_technologist: About Me :
+  <hr>
 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cebu, Philippines.
 
@@ -20,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 
   :zap: In my free time, I explore new technologies to boost my career growth.
 
-  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-View_linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sherwin-ursal-52752477/)
+  :mailbox:You can reach me here  [![Linkedin Badge](https://img.shields.io/badge/-View_linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sherwin-ursal-52752477/)
   
   <hr>
 
-  ### :hammer_and_wrench: Languages and Tools :
+  ### :hammer_and_wrench: I work with :
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
@@ -53,8 +54,6 @@ You can click the Preview link to take a look at your changes.
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=genius29&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sherwin29&theme=radical&custom_title=Time%20spent%20this%20year)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genius29&show_icons=true&theme=radical)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genius29&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
